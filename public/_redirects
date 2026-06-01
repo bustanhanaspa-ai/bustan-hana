@@ -1,0 +1,9 @@
+/* Redirect root to /en */
+/  /en  301
+
+/* SPA routing for both languages */
+/en/*  /index.html  200
+/ar/*  /index.html  200
+
+/* Catch all other routes */
+/*  /index.html  200

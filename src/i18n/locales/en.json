@@ -1,0 +1,282 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "call": "Call Us"
+  },
+  "hero": {
+    "title": "Bustan Hana Spa",
+    "subtitle": "Discover authentic luxury in the heart of Dubai. Licensed wellness sanctuary offering traditional treatments with modern excellence.",
+    "bookAppointment": "Book Your Escape",
+    "viewServices": "View Services",
+    "licensed": "Fully Licensed",
+    "certified": "Certified Therapists",
+    "authentic": "100% Authentic"
+  },
+  "about": {
+    "title": "Welcome to Your Sanctuary",
+    "paragraph1": "At Bustan Hana Spa, we've created a peaceful oasis where wellness meets luxury. Our fully licensed facility in the heart of Dubai offers an authentic escape from the everyday hustle.",
+    "paragraph2": "With certified therapists, premium natural products, and a commitment to the highest hygiene standards, we ensure every visit is a rejuvenating experience you can trust.",
+    "paragraph3": "We pride ourselves on our professional approach, maintaining complete privacy and authenticity in every treatment. Our licensed status and Dubai Municipality approval guarantee you're in safe, capable hands."
+  },
+  "services": {
+    "title": "Signature Treatments",
+    "subtitle": "Each service is crafted to restore balance and rejuvenate your spirit",
+    "swedish": {
+      "name": "Swedish Massage",
+      "slug": "swedish-massage",
+      "description": "Classic relaxation therapy using gentle, flowing strokes to ease tension and improve circulation",
+      "duration": "60-90 minutes",
+      "fullDescription": "Experience the timeless art of Swedish massage, designed to melt away stress and restore your natural balance. This gentle yet effective technique uses long, flowing strokes combined with kneading movements to release muscle tension and improve blood circulation throughout your body.",
+      "benefits": ["Reduces stress and anxiety", "Improves blood circulation", "Releases muscle tension", "Promotes better sleep", "Boosts immune system", "Increases flexibility"],
+      "whatToExpect": "Your session begins with a consultation to understand your specific needs. You'll then relax in our private treatment room as our certified therapist uses premium natural oils to perform gentle, rhythmic strokes. The pressure is adjusted to your comfort level, ensuring a deeply relaxing experience.",
+      "preparation": ["Arrive 10 minutes early to complete any forms", "Avoid heavy meals 2 hours before", "Communicate any health concerns", "Turn off your mobile phone"]
+    },
+    "deepTissue": {
+      "name": "Deep Tissue Massage",
+      "slug": "deep-tissue-massage",
+      "description": "Targeted pressure therapy to release chronic muscle tension and knots",
+      "duration": "60-90 minutes",
+      "fullDescription": "Our deep tissue massage goes beyond surface relaxation to target chronic muscle tension and adhesions. Using firm pressure and slow strokes, our expert therapists work on the deeper layers of muscle tissue to break down knots and release long-held tension.",
+      "benefits": ["Relieves chronic pain", "Breaks down scar tissue", "Improves posture", "Reduces inflammation", "Speeds up recovery from injuries", "Increases range of motion"],
+      "whatToExpect": "This therapeutic massage focuses on problem areas with concentrated pressure. While you may experience some discomfort during the treatment, it should never be painful. Our therapist will check in regularly to ensure the pressure is appropriate for you.",
+      "preparation": ["Hydrate well before and after", "Inform therapist of any pain points", "Expect some soreness for 24-48 hours", "Rest after your session"]
+    },
+    "aromatherapy": {
+      "name": "Aromatherapy",
+      "slug": "aromatherapy-massage",
+      "description": "Essential oil-infused massage to balance mind, body and emotions",
+      "duration": "75-90 minutes",
+      "fullDescription": "Indulge in the healing power of nature with our aromatherapy massage. We blend premium essential oils specifically chosen for your needs, creating a multisensory experience that nurtures both body and mind. The therapeutic properties of these oils are absorbed through your skin and inhaled, providing holistic benefits.",
+      "benefits": ["Balances emotions", "Reduces anxiety and depression", "Enhances mood", "Relieves headaches", "Improves skin condition", "Promotes deeper relaxation"],
+      "whatToExpect": "Your journey begins with selecting essential oils based on your current needs – whether energizing, calming, or balancing. The massage combines gentle Swedish techniques with the therapeutic properties of aromatherapy, creating a deeply nurturing experience.",
+      "preparation": ["Discuss any allergies beforehand", "Avoid wearing perfume", "Breathe deeply during treatment", "Allow time to rest afterward"]
+    },
+    "arabic": {
+      "name": "Arabic Massage",
+      "slug": "arabic-massage",
+      "description": "Traditional Middle Eastern techniques combining gentle and firm pressure",
+      "duration": "60-90 minutes",
+      "fullDescription": "Experience the ancient wisdom of Arabic massage, a traditional Middle Eastern healing art passed down through generations. This unique technique combines rhythmic pressure, stretching, and kneading movements to restore energy flow and promote deep relaxation.",
+      "benefits": ["Improves energy flow", "Relieves muscle stiffness", "Enhances circulation", "Promotes detoxification", "Reduces stress", "Balances body systems"],
+      "whatToExpect": "Our Arabic massage incorporates traditional techniques using warm oils and rhythmic movements. The therapist adjusts pressure from gentle to firm based on your preferences, creating a balanced experience that honors this ancient healing tradition.",
+      "preparation": ["Arrive with an open mind", "Communicate comfort levels", "Hydrate before and after", "Allow the oils to absorb post-treatment"]
+    },
+    "hammam": {
+      "name": "Traditional Hammam",
+      "slug": "traditional-hammam",
+      "description": "Authentic cleansing ritual with steam, exfoliation and purifying treatments",
+      "duration": "90-120 minutes",
+      "fullDescription": "Immerse yourself in the centuries-old tradition of the Turkish hammam. This complete purification ritual combines steam bathing, deep exfoliation, and cleansing to remove impurities and rejuvenate your skin. Experience the authentic hammam ceremony in our beautifully designed traditional space.",
+      "benefits": ["Deep skin exfoliation", "Removes dead skin cells", "Opens and cleanses pores", "Improves skin texture", "Promotes detoxification", "Ultimate relaxation"],
+      "whatToExpect": "Your hammam journey begins in the steam room to open your pores. Then, our expert will use a traditional kese mitt to exfoliate your entire body, followed by a luxurious foam massage. The experience concludes with a relaxing massage using nourishing oils.",
+      "preparation": ["Bring swimwear or use provided garments", "Remove jewelry beforehand", "Plan 2+ hours for full experience", "Hydrate well throughout"]
+    },
+    "reflexology": {
+      "name": "Reflexology",
+      "slug": "reflexology-massage",
+      "description": "Pressure point therapy focusing on feet to promote whole-body wellness",
+      "duration": "45-60 minutes",
+      "fullDescription": "Discover the profound connection between your feet and your overall health through reflexology. This ancient healing art applies targeted pressure to specific points on your feet that correspond to different organs and systems in your body, promoting natural healing and balance.",
+      "benefits": ["Reduces stress and tension", "Improves nerve function", "Enhances circulation", "Promotes better sleep", "Boosts energy levels", "Supports natural healing"],
+      "whatToExpect": "You'll relax comfortably as our trained reflexologist applies precise pressure to reflex points on your feet. Some points may feel tender, which indicates areas that need attention. The treatment is both therapeutic and deeply relaxing.",
+      "preparation": ["Wear comfortable loose clothing", "Avoid heavy meals before", "Communicate any foot sensitivities", "Drink water after your session"]
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose Bustan Hana Spa",
+    "subtitle": "Experience the difference that comes from true professionalism and authentic care",
+    "licensed": {
+      "title": "Fully Licensed Facility",
+      "description": "Approved by Dubai Municipality with all necessary permits and certifications for your peace of mind"
+    },
+    "therapists": {
+      "title": "Certified Therapists",
+      "description": "Our team holds international certifications and years of specialized training in therapeutic techniques"
+    },
+    "products": {
+      "title": "Premium Natural Products",
+      "description": "We use only high-quality, natural oils and products that nourish your skin and enhance your experience"
+    },
+    "hygiene": {
+      "title": "Highest Hygiene Standards",
+      "description": "Rigorous cleaning protocols and sterilization procedures ensure a safe, pristine environment"
+    },
+    "privacy": {
+      "title": "Complete Privacy",
+      "description": "Individual treatment rooms with secure facilities guarantee your comfort and confidentiality"
+    },
+    "authentic": {
+      "title": "Authentic Experience",
+      "description": "Traditional techniques passed down through generations, delivered with modern professional excellence"
+    }
+  },
+  "certification": {
+    "title": "Certification & Compliance",
+    "description": "Your safety and trust are our highest priorities. We maintain full compliance with Dubai's regulatory standards.",
+    "license": {
+      "title": "Dubai Municipality License",
+      "description": "Fully authorized and regularly inspected by Dubai Municipality"
+    },
+    "health": {
+      "title": "Health & Safety Certified",
+      "description": "Meeting the highest standards for hygiene and safety protocols"
+    },
+    "international": {
+      "title": "International Standards",
+      "description": "Our therapists hold internationally recognized certifications"
+    },
+    "quote": "Trust is earned through transparency and excellence in every detail"
+  },
+  "gallery": {
+    "title": "Step Inside Our Sanctuary",
+    "subtitle": "Explore our beautifully designed spaces where tranquility meets luxury",
+    "badge": "Spa Gallery"
+  },
+  "testimonials": {
+    "title": "What Our Guests Say",
+    "subtitle": "Real experiences from our valued clients",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "country": "United Kingdom",
+        "text": "The most professional and relaxing spa experience I've had in Dubai. The hygiene standards are impeccable and the staff are truly skilled."
+      },
+      {
+        "name": "Ahmed",
+        "country": "UAE",
+        "text": "Finally, a spa that feels authentic and trustworthy. The traditional massage was exceptional and the environment is so peaceful."
+      },
+      {
+        "name": "Maria",
+        "country": "Spain",
+        "text": "The Moroccan Hammam was incredible! Everything was clean, private, and the therapist was extremely professional. Highly recommend."
+      },
+      {
+        "name": "Michael",
+        "country": "USA",
+        "text": "I appreciate the licensed and regulated approach. It's clear they take professionalism seriously. The deep tissue massage was exactly what I needed."
+      },
+      {
+        "name": "Fatima",
+        "country": "Lebanon",
+        "text": "A hidden gem in Dubai. The atmosphere is so calming and the Arabic massage technique was authentic and deeply relaxing."
+      },
+      {
+        "name": "John",
+        "country": "Australia",
+        "text": "Excellent service from start to finish. The booking was easy, the facility is spotless, and the massage quality is world-class."
+      }
+    ]
+  },
+  "videos": {
+    "title": "Experience Our Sanctuary",
+    "subtitle": "Take a closer look at our wellness journey through these curated videos"
+  },
+  "blog": {
+    "title": "Wellness Insights",
+    "subtitle": "Expert tips and guides for your wellness journey",
+    "readMore": "Read More",
+    "minRead": "min read",
+    "relatedPosts": "Related Articles",
+    "shareArticle": "Share Article",
+    "posts": {
+      "hammam": {
+        "title": "The Ancient Art of Hammam",
+        "slug": "ancient-art-of-hammam",
+        "excerpt": "Discover the centuries-old tradition of hammam bathing and its profound benefits for body and mind.",
+        "category": "Traditional Wellness",
+        "author": "Dr. Layla Hassan",
+        "content": "The hammam, also known as the Turkish bath, represents one of humanity's oldest and most cherished wellness traditions. Dating back over a thousand years, this ritualistic bathing experience has been a cornerstone of Middle Eastern culture, serving not just as a place for cleansing, but as a social gathering space and a sanctuary for healing.\n\nThe hammam ceremony is a multi-step process designed to purify both body and soul. It begins in a warm room where the body gradually acclimates to the heat, allowing pores to open and muscles to relax. The steam-filled environment promotes deep sweating, which is the body's natural detoxification process.\n\nThe next phase involves the traditional kese scrub, where a specialist uses a coarse mitt to exfoliate dead skin cells. This vigorous scrubbing reveals fresh, glowing skin underneath and stimulates circulation throughout the body. Many first-time visitors are amazed by the amount of dead skin removed during this process.\n\nFollowing the exfoliation, a luxurious foam massage cleanses the body using natural olive oil soap. The abundant lather provides a gentle massage while thoroughly cleansing the skin. This is followed by several rinses with warm water, washing away impurities and leaving you feeling incredibly refreshed.\n\nThe benefits of regular hammam visits extend far beyond clean skin. The heat and steam improve cardiovascular health by increasing blood flow. The deep cleansing helps prevent skin problems and promotes a healthy complexion. The relaxation induced by the warm environment reduces stress hormones and promotes better sleep.\n\nIn traditional Middle Eastern culture, the hammam was also a place for important social rituals. Women would gather for pre-wedding celebrations, and it served as a venue for community bonding. Today, while we maintain the authentic techniques, we've added modern hygiene standards and privacy to ensure comfort for all guests.\n\nAt Bustan Hana Spa, we honor this ancient tradition with our authentic hammam facility. Our skilled practitioners have been trained in traditional techniques, ensuring you receive an experience that's both genuine and therapeutic. We use only natural products, including traditional black soap and pure argan oil.\n\nWhether you're seeking deep cleansing, stress relief, or simply want to experience this beautiful cultural tradition, the hammam offers a unique journey for body and mind. We recommend scheduling at least two hours for your first visit to fully appreciate the complete ritual."
+      },
+      "swedish": {
+        "title": "Swedish Massage Benefits",
+        "slug": "swedish-massage-benefits",
+        "excerpt": "Learn how this classic massage technique can reduce stress, improve circulation, and promote overall wellness.",
+        "category": "Massage Therapy",
+        "author": "Emma Andersson",
+        "content": "Swedish massage stands as the foundation of Western massage therapy, and for good reason. Developed in the 1800s by Swedish physiologist Per Henrik Ling, this technique has become the most recognized and practiced form of therapeutic massage worldwide. Understanding its benefits can help you appreciate why it remains so popular.\n\nThe core principle of Swedish massage is the manipulation of soft tissue through five basic strokes: effleurage (long gliding strokes), petrissage (kneading), tapotement (rhythmic tapping), friction (deep circular movements), and vibration. Each technique serves a specific purpose in promoting relaxation and healing.\n\nOne of the primary benefits is stress reduction. In our fast-paced modern world, chronic stress affects nearly everyone. Swedish massage activates the parasympathetic nervous system, which controls rest and digestion. This triggers the relaxation response, lowering heart rate, reducing blood pressure, and decreasing stress hormones like cortisol.\n\nImproved circulation is another significant advantage. The long, flowing strokes used in Swedish massage push blood toward the heart, improving oxygen flow throughout the body. Better circulation means more nutrients reaching your cells and more efficient removal of metabolic waste products. This can help reduce swelling and improve healing.\n\nFor those dealing with muscle pain or tension, Swedish massage offers substantial relief. The kneading and friction techniques work to release muscle knots (adhesions) and ease tension. The increased blood flow brings fresh oxygen and nutrients to tight muscles, while also flushing out inflammatory compounds that contribute to pain.\n\nMany people don't realize that Swedish massage can significantly improve flexibility. By working on muscles, connective tissues, and ligaments, massage helps improve range of motion. Regular sessions can keep joints more fluid and reduce the risk of injury, making it popular among athletes and active individuals.\n\nThe immune system also benefits from regular Swedish massage. Studies have shown that massage increases white blood cells, which play a crucial role in defending the body against disease. It also helps flush toxins from the lymphatic system, supporting overall immune function.\n\nSleep quality often improves with regular massage therapy. The deep relaxation induced by Swedish massage increases serotonin levels, which the body uses to produce melatonin, the sleep hormone. Many clients report falling asleep during their session and experiencing better sleep patterns afterward.\n\nAt Bustan Hana Spa, our certified therapists customize each Swedish massage to your individual needs. Whether you prefer lighter pressure for pure relaxation or firmer pressure for therapeutic benefit, we adjust our technique to ensure optimal results. We use premium natural oils that nourish your skin while providing the perfect glide for massage strokes.\n\nFor best results, we recommend scheduling Swedish massage sessions regularly – many clients find monthly sessions maintain their desired level of relaxation and wellness. Your first session includes a consultation to discuss any areas of concern and establish your comfort preferences."
+      },
+      "aromatherapy": {
+        "title": "Aromatherapy Essentials",
+        "slug": "aromatherapy-essentials",
+        "excerpt": "Explore the therapeutic properties of essential oils and how they enhance your spa experience.",
+        "category": "Natural Healing",
+        "author": "Sofia Martinez",
+        "content": "Aromatherapy represents the perfect marriage of ancient wisdom and modern science. This holistic healing practice uses essential oils extracted from plants to promote physical, mental, and emotional well-being. Understanding how aromatherapy works can help you make the most of your spa experience and even incorporate these practices at home.\n\nEssential oils are highly concentrated plant extracts that capture the natural fragrance and beneficial properties of their source. These powerful compounds are extracted from flowers, leaves, bark, roots, and other plant parts through distillation or cold pressing. A single drop contains the concentrated essence of the entire plant.\n\nThe therapeutic effects of aromatherapy work through two primary pathways. When you inhale essential oils, the scent molecules travel through the nose and affect the limbic system, the emotional center of the brain. This explains why certain scents can instantly change your mood or trigger memories. Simultaneously, when oils are applied to the skin during massage, their small molecular size allows them to be absorbed into the bloodstream.\n\nLavender stands as perhaps the most versatile and popular essential oil. Research has extensively documented its calming properties, making it ideal for reducing anxiety, promoting sleep, and relieving tension headaches. During a massage, lavender oil helps both mind and body enter a state of deep relaxation.\n\nPeppermint oil offers invigorating and cooling properties. It's excellent for relieving muscle pain and tension, particularly in the neck and shoulders. The menthol compound in peppermint creates a cooling sensation that can ease headaches and improve mental clarity. Many clients choose peppermint blends for morning spa sessions when they need energizing rather than sedating effects.\n\nEucalyptus oil brings respiratory benefits along with its fresh, clean scent. It opens airways, making breathing easier and deeper. Combined with massage, eucalyptus oil can help relieve congestion and support the immune system. It also has anti-inflammatory properties that benefit sore muscles and joints.\n\nRose oil, one of the most precious essential oils, offers profound emotional benefits. It's particularly helpful for those dealing with grief, anxiety, or emotional stress. The luxurious scent promotes feelings of comfort and self-love. In skincare, rose oil hydrates and nourishes, making it popular for facial treatments.\n\nFrankincense has been treasured for thousands of years for its grounding and centering properties. It deepens breathing, calms the mind, and promotes meditation. Many people find frankincense helpful for releasing emotional baggage and achieving mental clarity. It also has impressive anti-aging properties for skin.\n\nAt Bustan Hana Spa, we take aromatherapy seriously. All our essential oils are pure, therapeutic-grade, and sourced from reputable suppliers. We never use synthetic fragrances or diluted oils. Before your aromatherapy massage, our therapist will consult with you to understand your current needs – whether you're seeking relaxation, energy, emotional balance, or relief from specific symptoms.\n\nWe create custom blends by combining complementary oils to address your unique needs. For example, a stress-relief blend might combine lavender's calming properties with bergamot's mood-lifting effects and chamomile's gentle relaxation. Our expertise ensures you receive maximum therapeutic benefit from your session.\n\nThe beauty of aromatherapy is that its benefits extend beyond your spa visit. The oils continue to work hours after your massage, and you can incorporate simple aromatherapy practices at home. We're always happy to recommend specific oils and techniques you can use to maintain your wellness between spa visits."
+      }
+    }
+  },
+  "booking": {
+    "title": "Reserve Your Moment of Relaxation",
+    "subtitle": "Book your treatment today and experience the ultimate in wellness and rejuvenation",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "service": "Select Service",
+      "date": "Preferred Date",
+      "message": "Special Requests (Optional)",
+      "submit": "Book via WhatsApp"
+    },
+    "quickContact": "Quick Contact",
+    "whatsapp": "WhatsApp Us",
+    "call": "Call Now",
+    "hours": {
+      "title": "Operating Hours",
+      "daily": "Daily: 10:00 AM - 11:00 PM"
+    }
+  },
+  "contact": {
+    "title": "Visit Our Location",
+    "subtitle": "Find us in the heart of Dubai, where tranquility awaits",
+    "address": {
+      "title": "Address",
+      "line1": "308 Studio M Hotel Al Barsha",
+      "line2": "Al Barsha 1",
+      "line3": "Dubai, UAE"
+    },
+    "phone": {
+      "title": "Phone",
+      "number": "+971 56 112 1239"
+    },
+    "email": {
+      "title": "Email",
+      "address": "info@bustan-hanaspa.com"
+    },
+    "hours": {
+      "title": "Hours",
+      "daily": "Daily: 10:00 AM - 11:00 PM"
+    }
+  },
+  "footer": {
+    "description": "Your sanctuary for authentic wellness and luxury spa treatments in Dubai. Licensed, certified, and committed to excellence.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "copyright": "© {{year}} Bustan Hana Spa. All rights reserved."
+  },
+  "whatsapp": {
+    "tooltip": "Chat with us on WhatsApp"
+  },
+  "seo": {
+    "home": {
+      "title": "Bustan Hana Spa - Licensed Luxury Spa in Dubai | Authentic Treatments",
+      "description": "Experience authentic luxury at Bustan Hana Spa, Dubai's fully licensed wellness sanctuary. Certified therapists, traditional hammam, Swedish massage, and aromatherapy treatments in Bur Dubai."
+    }
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Discover our complete range of authentic wellness treatments designed to restore your body and rejuvenate your spirit",
+    "backToHome": "Back to Home",
+    "viewDetails": "View Details",
+    "seo": {
+      "title": "Spa Services | Bustan Hana Spa Dubai - Massage & Wellness Treatments",
+      "description": "Explore our premium spa services including Swedish massage, deep tissue therapy, traditional hammam, aromatherapy, Arabic massage, and reflexology at Bustan Hana Spa Dubai."
+    }
+  }
+}
