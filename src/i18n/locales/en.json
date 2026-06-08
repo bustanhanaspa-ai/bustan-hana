@@ -229,7 +229,7 @@
     "call": "Call Now",
     "hours": {
       "title": "Operating Hours",
-      "daily": "Daily: 10:00 AM - 11:00 PM"
+      "daily": "Open 24 Hours"
     }
   },
   "contact": {
@@ -251,7 +251,7 @@
     },
     "hours": {
       "title": "Hours",
-      "daily": "Daily: 10:00 AM - 11:00 PM"
+      "daily": "Open 24 Hours"
     }
   },
   "footer": {
